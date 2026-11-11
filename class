@@ -1,0 +1,18 @@
+meaning:
+DNS stands for (is short for) domain name service 
+example:
+A		01000001
+B		01000010
+C		01000011
+D		01000100
+a system to translate domain names into ip addresses 
+2: ip addresses
+have 2 types : private and public
+  public ips that everyone can see
+  private ips is that only devices in the same network can see
+  have 5 layers of dns :
+  - local machines
+  - router
+  isp
+  - regional dns 
+  -root dns
